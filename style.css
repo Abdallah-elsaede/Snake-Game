@@ -1,0 +1,12 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+#canvas{
+    border: solid 3px #038347;
+    width: 35%;
+    
+    margin-top: 65px;
+    margin-left: 400px
+}
